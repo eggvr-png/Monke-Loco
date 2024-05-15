@@ -5,3 +5,8 @@ Whats Included?
 - The standered Gorilla Locomotion scripts
 - Hitsound script
 - AND MORE
+------------------------
+## Requirements:
+- Unity
+- A URP PROJECT, NOT SRP (universal rp, not standered rp)
+- XR Interaction Toolkit
