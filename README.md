@@ -10,11 +10,5 @@ Whats Included?
 - Unity
 - A URP PROJECT, NOT SRP (universal rp, not standered rp)
 - XR Interaction Toolkit
------------------------
-## What was added this update?
-- test map
-- hitsound scripts
-- the package its self
-- some improvements that aren't noticeable
 ----------------------
 # DOCUMENTATION LATER, SORRY
