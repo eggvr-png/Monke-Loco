@@ -16,3 +16,5 @@ More down the line
 - hitsound scripts
 - the package its self
 - some improvements that aren't noticeable
+----------------------
+# DOCUMENTATION LATER, SORRY
