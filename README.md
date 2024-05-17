@@ -4,7 +4,7 @@ Monke-Loco is a version of the Gorilla Locomotion that adds useful and better fe
 Whats Included?
 - The standered Gorilla Locomotion scripts
 - Hitsound script
-More down the line
+- More down the line
 ------------------------
 ## Requirements:
 - Unity
