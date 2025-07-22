@@ -1,3 +1,5 @@
+## This is not being worked on anymore. Sorry :P
+-------------------------
 # Monke-Loco
 Monke-Loco is a version of the Gorilla Locomotion that adds useful and better features for creating games with it!
 -------------------------
